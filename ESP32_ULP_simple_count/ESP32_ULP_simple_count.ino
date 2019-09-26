@@ -51,8 +51,7 @@ void setup(void)
 
 void loop()
 {
-  delay(1000);
-  update_pulse_count();
+
 }
 
 static void init_ulp_program(void)
